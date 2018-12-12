@@ -1,1 +1,1 @@
-m_EditorVersion: %%UnityVersion%%
+m_EditorVersion: ##UnityVersion##
