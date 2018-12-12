@@ -1,0 +1,38 @@
+# OS files
+
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+[Tt]humbs.db
+Icon?
+ehthumbs.db
+[Dd]esktop.ini
+
+# Unity files
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/.vs/
+
+# IDE files
+
+/*.csproj
+/*.unityproj
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+*.pidb.meta
+/*.svd
+/*.pdb
+/.idea/
+.consulo/
+
+# Builds
+
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
