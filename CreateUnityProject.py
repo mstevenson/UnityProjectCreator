@@ -1,17 +1,19 @@
 #!/usr/bin/env python
 
-# - Create Unity project structure.
-# - Set Unity to .Net 4.5 mode.
-# - Enable XR settings, and set up "None" and "Oculus".
-# - Add .gitignore and .gitattributes.
+# TODO
+# x Create Unity project structure.
+# x Set Unity to .Net 4.5 mode.
+# x Enable XR settings, and set up "None" and "Oculus".
+# x Add .gitignore and .gitattributes.
 # - Add .editorconfig
-# - Add a sln file with some preconfigured settings
-# - Add EditorConfig file
-# - Add Rider prefs for the specific .sln
-# - Initialize LFS.
+# - Add .sln file with some preconfigured settings
+# - Add Rider prefs file for the specific .sln
+# - Initialize git
+# - Initialize git-lfs.
 # - Clone LighthausFrameworks as a submodule.
 # - Import Oculus Integration from the Asset Store, or as a submodule.
 # - Set the company and product name in Unity meta files
+# - Enforce Unix line endings in Unity and IDE
 
 import os
 import os.path
