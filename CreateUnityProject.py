@@ -5,15 +5,14 @@
 # x Set Unity to .Net 4.5 mode.
 # x Enable XR settings, and set up "None" and "Oculus".
 # x Add .gitignore and .gitattributes.
-# - Add .editorconfig
-# - Add .sln file with some preconfigured settings
+# x Add .editorconfig
+# x Add .sln file with some preconfigured settings
+# x Set the company and product name in Unity meta files
+# x Enforce Unix line endings in Unity and IDE
 # - Add Rider prefs file for the specific .sln
 # - Initialize git
 # - Initialize git-lfs.
-# - Clone LighthausFrameworks as a submodule.
 # - Import Oculus Integration from the Asset Store, or as a submodule.
-# - Set the company and product name in Unity meta files
-# - Enforce Unix line endings in Unity and IDE
 # - Replace Unity project GUID and main scene GUID
 
 import os
